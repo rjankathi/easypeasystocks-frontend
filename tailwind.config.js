@@ -1,0 +1,6 @@
+// Minimal Tailwind setup; scans src for classnames
+export default {
+  content: ["./index.html", "./src/**/*.{js,jsx}"],
+  theme: { extend: {} },
+  plugins: []
+};
