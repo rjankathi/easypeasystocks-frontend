@@ -1,0 +1,4 @@
+/* Tailwind base directives: this compiles into utility classes used in App */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
